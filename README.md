@@ -90,7 +90,7 @@ Live URL: https://your-deployment-link.com
 
 ## 👩‍💻 Author
 
-Developed by Seema Gupta
+Developed by Disha Gupta
 
 ---
 
